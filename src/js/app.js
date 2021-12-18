@@ -1,5 +1,5 @@
 import "../scss/app.scss";
-import * as R from '/node_modules/ramda/es/index.js';
+import * as R from 'ramda';
 
 
 window.addEventListener("DOMContentLoaded", () => {
